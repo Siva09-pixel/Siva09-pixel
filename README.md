@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align-"centre">Hi there, I am Siva Pratap P </h1>
+
+🔭 I’m currently working as <h1> Student </h1>
+
+🌱 I’m currently learning <strong> Data Structures and Algoritms in Java </strong>
+
+🤔 I’m looking for help with <h1> Carrer build on software side </h1>
+
+💬 Ask me about <strong> C,Java,Python,html,Css,Js </strong>
+
+ 📫 How to reach me: <a href="https://www.linkedin.com/in/siva-pratap-5908ba223/" target=_blank>Siva Pratap</a>
+
+
+
+
+
