@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align-"centre">Hi there, I am Siva Pratap P </h1>
 
-🔭 I’m currently working as <h1> Student </h1>
+🔭 I’m currently working as <p> Student </p>
 
 🌱 I’m currently learning <strong> Data Structures and Algoritms in Java </strong>
 
-🤔 I’m looking for help with <h1> Carrer build on software side </h1>
+🤔 I’m looking for help with <p> Carrer build on software side </p>
 
 💬 Ask me about <strong> C,Java,Python,html,Css,Js </strong>
 
