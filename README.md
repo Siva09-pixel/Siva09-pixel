@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🤔 I’m looking for help with <p> Carrer build on software side </p>
 
-💬 Ask me about <strong> C,Java,Python,html,Css,Js </strong>
+💬 Ask me about <strong> C,Java,Python,html,Css,Js,Reactjs </strong>
 
  📫 How to reach me: <a href="https://www.linkedin.com/in/siva-pratap-5908ba223/" target=_blank>Siva Pratap</a>
 
